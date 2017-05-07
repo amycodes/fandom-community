@@ -1,3 +1,6 @@
 [submodule "wp-content/plugins/fandom-cpt"]
 	path = wp-content/plugins/fandom-cpt
 	url = https://github.com/amycodes/fandom-cpt.git
+[submodule "wp-content/themes/twentysixteen-fandom"]
+	path = wp-content/themes/twentysixteen-fandom
+	url = https://github.com/amycodes/twentysixteen-fandom.git
