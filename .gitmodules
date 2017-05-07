@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/fandom-cpt"]
+	path = wp-content/plugins/fandom-cpt
+	url = https://github.com/amycodes/fandom-cpt.git
